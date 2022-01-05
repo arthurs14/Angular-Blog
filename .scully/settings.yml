@@ -1,0 +1,11 @@
+identifier: k3y72218feq1x5k3
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /Users/jayr/Desktop/Development/Angular/my-blog
+distFolder: dist/my-blog
+outDir: /Users/jayr/Desktop/Development/Angular/my-blog/dist/static
+handle404: ''
+allowErrorCollect: false
